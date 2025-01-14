@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringproApplication {
 
 	public static void main(String[] args) {
-		System.out.println("hello .....!2025");
+		System.out.println("hello .....!2025 new begining");
 		SpringApplication.run(SpringproApplication.class, args);
 	}
 
